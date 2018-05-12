@@ -1,0 +1,34 @@
+_repo: Stories-of-Mystery--13-Little-Classics-Volume-8--of-18-_16405
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Johnson, Rossiter
+    alias: Johnson, Edwin Rossiter
+    birthdate: 1840
+    deathdate: 1931
+    gutenberg_agent_id: '3308'
+    url: http://www.gutenberg.org/2009/agents/3308
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Collections'
+- !lcsh 'Short stories'
+- !lcsh 'Mystery fiction'
+- !lcc 'PN'
+tableOfContents: The Ghost, William D. O'Connor -- The Four-Fifteen Express, Amelia
+  B. Edwards -- The Signal-Man, Charles Dickens -- The Haunted Ships, Allan Cunningham
+  -- A Raft That No Man Made, Robert T.S. Lowell -- The Invisible Princess, Francis
+  O'Connor -- The Advocate's Wedding-Day, Catherine Crowe -- The Birthmark, Nathaniel
+  Hawthorne.
+title: "Stories of Mystery\r\nLittle Classics, Volume 8 (of 18)"
+url: http://www.gutenberg.org/ebooks/16405
